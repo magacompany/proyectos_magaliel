@@ -1,2 +1,9 @@
 
-          INICIO DEL PROYECTO
+         		 INICIO DEL PROYECTO
+primero 
+segundo
+tercero
+cuarto
+quinto
+
+	Creamos la primer secuencia hasta la quinta posicion 
