@@ -13,3 +13,6 @@ quinto
 9
 10
         creamos la secuencia a la decima posicion
+11
+12
+13             llegamos al numero 13
