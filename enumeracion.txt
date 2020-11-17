@@ -5,22 +5,4 @@ segundo
 tercero
 cuarto
 quinto
-
-	Creamos la primer secuencia hasta la quinta posicion 
-6
-7
-8
-9
-10
-        creamos la secuencia a la decima posicion
-11
-12
-13             llegamos al numero 13
-
-14
-15
-16
-17
-18
-19
-20           se modifica el archivo de nuevo
+                      empezamos en el quinto valor
